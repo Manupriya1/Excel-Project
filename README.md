@@ -13,6 +13,7 @@ I feel there could be some other factors that were not captured in the data that
 
 ### Analysis of Outcomes Based on Launch Date
 As we can see in the graph below that in the theater catagory, there are more successful campaign than the failed ones.  A very few of the campaigns got cancled. 
+
 <img width="356" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/69255270/111948382-4c9fbb80-8a9c-11eb-87f7-c5fcc6823261.png">
 
 The most successful campaigns are in the month of May.  The possible explanation could be the start of summer as people plan their summer ahead of time.
@@ -23,6 +24,7 @@ Looking at the analysis, I would recommend Louise to start the campaign in May.
 
 ### Analysis of Outcomes Based on Goals
 As we can see in the graph below that in less than $1000-$5000 range around 80% of projects in the subcatagory plays succeeded to meet their goals. 
+
 <img width="304" alt="Outcome vs  Goals" src="https://user-images.githubusercontent.com/69255270/111948358-43165380-8a9c-11eb-9953-b826e0d5b7de.png">
 
 The goal range $25,000-35,000 and $45,000 - greater than $50,000 have most failed campaigns around 80% and 100% respectively.
